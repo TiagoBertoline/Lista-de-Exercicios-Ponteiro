@@ -1,2 +1,2 @@
-# Lista-de-Exercicios-Ponteiro
-lista com 10 Exercicios em C++
+# Lista-de-Exercícios-Ponteiros
+lista com 10 Exercícios em C++
